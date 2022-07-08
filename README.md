@@ -43,6 +43,8 @@ vtp mode transparent
 vtp domain ccna
 vtp password cisco123
 exit
+![VTP CONFIGURATION](https://user-images.githubusercontent.com/106605770/177993446-47d79947-8e55-40e4-9f7d-00074dc611e4.jpg)
+
 
 creating vlans
 ----------------
